@@ -1,2 +1,2 @@
 # RTU SGPA CALCULATOR 
-## Made using React, Vite, Tailwind & Javacript!!
+## this is an rtu sgpa calc
